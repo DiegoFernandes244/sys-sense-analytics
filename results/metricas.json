@@ -1,0 +1,24 @@
+{
+  "natureza": "Dados sintéticos para demonstração acadêmica; janela quente imposta na geração",
+  "semente": 20261026,
+  "fuso_referencia": "America/Sao_Paulo",
+  "intervalo_segundos": 10,
+  "linhas_origem": 17288,
+  "duplicatas_removidas": 8,
+  "registros_tratados": 17280,
+  "horarios_consolidados": 8640,
+  "temperaturas_validas": 8628,
+  "temperaturas_ausentes": 12,
+  "leituras_acima_30_c": 1440,
+  "percentual_acima_30_c": 16.689847009735743,
+  "completude_temperatura_pct": 99.86111111111111,
+  "primeira_leitura_acima": "2026-10-26 14:00:00",
+  "ultima_leitura_acima": "2026-10-26 17:59:50",
+  "medias": {
+    "temperatura_ambiente_c": 26.089999652294853,
+    "umidade_relativa_pct": 52.04999974537037,
+    "uso_cpu_pct": 35.43000009259259,
+    "uso_memoria_pct": 58.19999994212963
+  },
+  "validacao": "APROVADA: contagens, horários, regra térmica, médias, agregações e SQLite"
+}

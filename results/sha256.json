@@ -1,0 +1,8 @@
+{
+  "data/monitoramento.csv": "e986aa6dedd9fd7a9097a808d00b3eb3575f373cb4be84131e047b4729e41aaf",
+  "data/registros_origem.csv": "416b5d57e4a66f50811a54d6cec472469de743d7d58978cd82435ed10a446839",
+  "data/registros_tratados.csv": "0ef9fb992b2699790578f0be855a6e08cddcafd4661b71190399a857cbab359a",
+  "data/resumo_horario.csv": "040f1f75c104ed18b0439693384d68a75fc9cdc40571b1ab4fe814a96be8e828",
+  "results/dashboard.png": "090dc65455d1a4206a74e7c930c46c2ef6cbeb241c7617db4687d0a81590e8c7",
+  "results/metricas.json": "4a2ffecb696dfc3f6b99db177a4c11b9e795d8155074d5dd8f829f02f8012924"
+}
