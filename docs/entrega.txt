@@ -1,0 +1,14 @@
+ESTADO DA ENTREGA
+
+GitHub publicado: https://github.com/DiegoFernandes244/sys-sense-analytics
+LinkedIn publicado: https://www.linkedin.com/feed/update/urn:li:activity:7527448032095899648/
+
+O pacote contém dados simulados, pipeline executado, banco, métricas, painel, documentação, texto publicado e roteiro do vídeo.
+
+PENDÊNCIAS
+1. Criar quadro no GitHub Projects ou Trello a partir de docs/kanban.csv e inserir captura legível.
+2. Transferir o conteúdo de docs/canvas.png ao Canva e exportar a imagem final. A imagem local não foi criada no serviço Canva.
+3. Gravar apresentação com sua participação usando docs/roteiro_video.txt, publicar no YouTube como não listado e inserir o link em Scrum. Os cinco minutos do roteiro são uma sugestão, não um requisito confirmado nos anexos.
+4. Revisar os links e conferir a paginação do Word ao abrir antes da entrega.
+
+O PDF é uma edição diagramada do conteúdo, revisada visualmente. Não foi possível renderizar o Word neste ambiente. A versão pública dos documentos omite o RA; a cópia acadêmica local preserva esse dado. Os materiais didáticos do professor não foram republicados.

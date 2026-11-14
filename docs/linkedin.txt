@@ -1,0 +1,18 @@
+SYS Sense | Dados para apoiar o monitoramento de servidores
+
+Na disciplina Metodologias para Projetos de Big Data Analytics, da Fatec Ipiranga, desenvolvi uma aplicação acadêmica baseada no SYS Sense para organizar dados ambientais e indicadores de desempenho de servidores.
+
+A pergunta do projeto é: em quais horários a temperatura do ambiente supera o limite de referência de 30 °C?
+
+Preparei um cenário inteiramente simulado com duas origens lógicas, ESP32 e NUC7080, registros a cada dez segundos e dados de temperatura, umidade, CPU e memória. O pipeline em Python remove duplicatas, preserva valores ausentes, integra os canais e grava os resultados em CSV e SQLite.
+
+Na execução, 1.440 das 8.628 temperaturas válidas superaram 30 °C, equivalentes a 16,69%. A janela entre 14h e antes de 18h foi definida na geração dos dados para demonstrar como a análise pode orientar uma inspeção. Esse resultado não representa medições reais nem comprova redução de falhas.
+
+O trabalho conecta CRISP-DM, KDD, Scrum adaptado ao contexto individual, Kanban e DataOps. O painel reúne as médias horárias das quatro medidas, enquanto o README explica como reproduzir o processamento e conferir as métricas.
+
+Meu principal aprendizado foi transformar uma pergunta de negócio em um fluxo verificável, cuidando da qualidade dos dados e dos limites da interpretação. A próxima etapa é validar a proposta com coleta real.
+
+Código, dados e resultados:
+https://github.com/DiegoFernandes244/sys-sense-analytics
+
+#BigData #DataAnalytics #Python #SQLite #IoT #DataOps

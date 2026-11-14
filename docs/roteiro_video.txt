@@ -1,0 +1,24 @@
+ROTEIRO DE APRESENTAÇÃO DO SYS SENSE
+
+Duração sugerida: aproximadamente cinco minutos. A duração não foi localizada como requisito no modelo e no PDF anexados. O modelo solicita um vídeo Scrum no YouTube com visibilidade não listada.
+
+0:00 a 0:40 — Apresentação e problema
+Meu nome é Diego Fernandes Xavier, do Grupo 4. Este trabalho é individual e utiliza o SYS Sense como referência de monitoramento de servidores. A pergunta é em quais horários a temperatura ambiental supera 30 graus, para apoiar a priorização de inspeções. O limite é uma referência do estudo e depende de validação para uso real.
+
+0:40 a 1:30 — Backlog e responsabilidades
+Meu backlog inclui definir o problema e as fontes; preparar os dados; limpar e integrar os canais; calcular o indicador e gerar o painel; revisar a documentação; e organizar a publicação. Eu acumulo, para fins didáticos, as responsabilidades de priorização, acompanhamento e execução. Não apresento isso como um Scrum Team completo. A publicação depende de conferir os arquivos e os links.
+
+1:30 a 2:15 — Planejamento e critérios de aceite
+A Sprint 1 foi planejada em cinco dias úteis. A meta é obter uma base consolidada e o painel. Os critérios de aceite são reconciliar as contagens, preservar os valores ausentes, aplicar corretamente a regra maior que 30 graus e reproduzir os resultados pelo script. Esse planejamento não deve ser confundido com um registro histórico de cinco dias de execução.
+
+2:15 a 3:20 — Demonstração técnica
+Mostrar o README e executar python scripts/pipeline.py. Explicar que os dados são simulados e que a janela de calor foi imposta no gerador para demonstrar a análise. Mostrar as 17.288 linhas de origem, oito duplicatas removidas, 17.280 registros tratados e 8.640 horários consolidados. Abrir metricas.json e o painel. Explicar os doze valores ausentes e por que o denominador do indicador é 8.628.
+
+3:20 a 4:10 — Resultado e interpretação
+No cenário, 1.440 temperaturas excedem 30 graus, equivalentes a 16,69% das leituras válidas, entre 14h e antes de 18h. Isso exemplifica uma janela para inspeção, sem comprovar falhas. Os gráficos de umidade, CPU e memória contextualizam o monitoramento e não demonstram causalidade.
+
+4:10 a 5:00 — Kanban e próximos passos
+Mostrar as entregas locais e as tarefas de publicação ainda pendentes. Explicar o limite de uma tarefa em andamento. Para evoluir, pretendo coletar dados reais, ajustar o limite à infraestrutura, validar a utilidade com o responsável e estudar ingestão e alertas contínuos. Encerrar mostrando onde estão o README, os dados, o código, as métricas e a documentação.
+
+APÓS GRAVAR
+Confira áudio e legibilidade, publique no YouTube como não listado e teste o link. Insira o endereço real na seção Scrum. Não use um vídeo gerado como evidência de uma reunião que não aconteceu.

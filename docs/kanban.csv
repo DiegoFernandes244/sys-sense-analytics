@@ -1,0 +1,10 @@
+id,tarefa,status,responsavel,criterio_de_conclusao
+K01,Definir Grupo 4 e tema SYS Sense,Concluído,Diego Fernandes Xavier,Tema e autoria registrados
+K02,Gerar base sintética e dicionário,Concluído,Diego Fernandes Xavier,CSVs e README disponíveis
+K03,Limpar integrar e validar dados,Concluído,Diego Fernandes Xavier,Pipeline executado e métricas conferidas
+K04,Gerar painel e documentação,Concluído,Diego Fernandes Xavier,Painel e documentos locais disponíveis
+K05,Organizar pacote local,Concluído,Diego Fernandes Xavier,Pacote local revisado
+K06,Publicar quadro no GitHub Projects ou Trello,A fazer,Diego Fernandes Xavier,Quadro real e captura inserida no documento
+K07,Gravar apresentação e publicar vídeo não listado,A fazer,Diego Fernandes Xavier,Vídeo real e link testado
+K08,Exportar Canvas pelo Canva,A fazer,Diego Fernandes Xavier,Exportação do Canva substitui imagem local
+K09,Publicar repositório e postagem no LinkedIn,Concluído,Diego Fernandes Xavier,Links reais inseridos e testados
