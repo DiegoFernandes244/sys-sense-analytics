@@ -109,6 +109,10 @@ A documentação fornecida identifica como referência o integrador SYS Sense de
 
 Os materiais didáticos do professor orientam a estrutura. O repositório deve conter os resultados do projeto, sem republicar a íntegra das aulas ou os arquivos de terceiros sem autorização.
 
+## Publicações
+
+[Repositório do projeto](https://github.com/DiegoFernandes244/sys-sense-analytics) · [Postagem no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7527448032095899648/)
+
 ## Perfis e repositório
 
 [Repositório do projeto](https://github.com/DiegoFernandes244/sys-sense-analytics) · [Perfil no LinkedIn](https://www.linkedin.com/in/diego-fernandes-xavier-759308145/)
