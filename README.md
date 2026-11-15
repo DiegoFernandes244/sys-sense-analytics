@@ -113,6 +113,16 @@ Os materiais didáticos do professor orientam a estrutura. O repositório deve c
 
 [Repositório do projeto](https://github.com/DiegoFernandes244/sys-sense-analytics) · [Postagem no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7527448032095899648/)
 
+## Quadro Kanban
+
+[SYS Sense Kanban Grupo 4](https://github.com/users/DiegoFernandes244/projects/1)
+
+O quadro público contém nove cartões e registra o estado atual das entregas de forma retrospectiva. Responsável por todos os cartões: Diego Fernandes Xavier. Limite de trabalho em andamento: 1. A captura em docs/kanban_github.png registra o momento de finalização, quando a inclusão da própria captura ainda estava em andamento.
+
+## Canvas e encerramento
+
+O Canvas foi importado para o Canva e exportado em PNG (1920 × 1540 pixels). A versão exportada está em [docs/canvas_canva.png](docs/canvas_canva.png) e integra a documentação. O quadro registra oito entregas concluídas e o vídeo dispensado pelo autor em 14/11/2026. Nenhum vídeo foi gravado ou publicado.
+
 ## Perfis e repositório
 
 [Repositório do projeto](https://github.com/DiegoFernandes244/sys-sense-analytics) · [Perfil no LinkedIn](https://www.linkedin.com/in/diego-fernandes-xavier-759308145/)
